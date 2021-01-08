@@ -1,0 +1,8 @@
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\SAI271_2020s2\projBitABit\projBitABit\bin\Debug\projBitABit.exe
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\SAI271_2020s2\projBitABit\projBitABit\bin\Debug\projBitABit.pdb
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\SAI271_2020s2\projBitABit\projBitABit\obj\x86\Debug\projBitABit.Form1.resources
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\SAI271_2020s2\projBitABit\projBitABit\obj\x86\Debug\projBitABit.Properties.Resources.resources
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\SAI271_2020s2\projBitABit\projBitABit\obj\x86\Debug\projBitABit.csproj.GenerateResource.Cache
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\SAI271_2020s2\projBitABit\projBitABit\obj\x86\Debug\projBitABit.exe
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\SAI271_2020s2\projBitABit\projBitABit\obj\x86\Debug\projBitABit.pdb
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\SAI271_2020s2\projBitABit\projBitABit\obj\x86\Debug\projBitABit.csprojResolveAssemblyReference.cache
